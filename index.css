@@ -6,7 +6,7 @@ body {
   cursor: pointer;
 }
 body {
-  color: #34495e;
+  color: white;
 }
 
 .clicked {
@@ -39,4 +39,10 @@ body {
   height: 100%;
   z-index: -1;
   animation: fadeIn 0.5s linear;
+}
+
+.js-clock {
+  margin-top: 200px;
+
+  position: center;
 }
